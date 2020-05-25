@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Proje</string>
+    <string name="event_name" />
+    <string name="save" />
+
+    <string-array name="remind_again">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+        <item>Do not Remind</item>
+    </string-array>
+
+    <string-array name="ringtone">
+        <item>Default</item>
+        <item>Drum</item>
+    </string-array>
+
+</resources>
